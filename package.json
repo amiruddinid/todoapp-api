@@ -17,6 +17,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "ejs": "^2.6.1",
     "errorhandler": "^1.5.0",

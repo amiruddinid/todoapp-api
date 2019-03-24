@@ -1,7 +1,7 @@
 {
-  "name": "conduit-node",
+  "name": "Todoapp",
   "version": "1.0.0",
-  "description": "conduit on node",
+  "description": "Todoapp from Realworld",
   "main": "app.js",
   "scripts": {
     "mongo:start": "docker run --name realworld-mongo -p 27017:27017 mongo & sleep 5",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gothinkster/productionready-node-api.git"
+    "url": "git+https://github.com/amiruddinid/todoapp-api"
   },
   "license": "ISC",
   "dependencies": {
